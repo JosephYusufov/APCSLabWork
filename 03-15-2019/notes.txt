@@ -1,0 +1,10 @@
+A list of elements of a given type can be represented using an array of that type.
+
+A list of elements of disparate types can be implemented without polymorphism two ways, at least. Such programs share a program structure like __________ (~4–8 lines of pseudo-code).
+
+Stumbling block
+This structure constitutes a maintenance nightmare: ____________ (~20–60 words).
+
+Polymorphism provides programmers with a workaround for the stumbling block: implement a list of elements of disparate types by ___________ (~20–40 words).
+
+Java features support applying a method to every element when all of the types have an implementation of that method.
